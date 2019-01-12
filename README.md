@@ -1,0 +1,2 @@
+# smol
+URL shortening application
